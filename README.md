@@ -35,5 +35,21 @@ To check the Optimization code, click on the file named [Alphabetsoupcharity_opt
 
 Clicke here to access the [Alphabet Soup Charity Analysis Report](https://github.com/Gilaine-UOT/deep-learning-challenge/blob/main/Alphabet%20Soup%20Charity%20Analysis%20Report.pdf)
 
+# Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation
+
+Based on the report, the current model employs a neural network architecture to develop a binary classification model for predicting the success probability of Alphabet Soup-funded organizations. However, given the size of the dataset, a different model that might better suit this classification problem is the Random Forest classifier.
+
+Random Forest is an ensemble learning algorithm that combines multiple decision trees to produce a more accurate prediction. It is a non-parametric model that can handle a mix of categorical and numerical features, and it is robust against overfitting. Furthermore, the model can handle missing data, which may be present in the dataset.
+
+The Random Forest classifier operates by constructing multiple decision trees, where each tree provides a prediction. These predictions are then combined to obtain a final prediction. The model evaluates the importance of each feature to make a prediction, which can provide valuable insight into the features that contribute most to the outcome.
+
+In comparison to a neural network, the Random Forest model has the advantage of being more interpretable, which can be valuable in situations where interpretability is required. Additionally, the Random Forest model can handle large datasets with many features, such as the Alphabet Soup dataset, and it can provide a high predictive accuracy.
+
+Therefore, given the characteristics of the Alphabet Soup dataset and the advantages of the Random Forest model, I recommend implementing a Random Forest classifier to classify the success probability of Alphabet Soup-funded organizations.
+
+
+
+
+
 
 
