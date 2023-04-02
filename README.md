@@ -17,3 +17,23 @@ The next phase of the study involved compiling, training, and evaluating the con
 
 The initial attempt at developing the model was as follows:
 
+![](https://github.com/Gilaine-UOT/deep-learning-challenge/blob/main/Images/Image1.PNG)
+
+To check the code and the first attempt code, click on the file named [Alphabetsoupcharity.ipynb](https://github.com/Gilaine-UOT/deep-learning-challenge/blob/main/Alphabetsoupcharity.ipynb)
+
+# 2nd Compile, Train, and Evaluate the Model - Optimization
+
+Employing a similar methodology to the previous phase, the model was further refined to enhance its predictive accuracy beyond 75%. To achieve this target accuracy, TensorFlow was utilized again, and relevant techniques were employed to optimize the model.
+
+To optimize the model further, several strategies were employed. Firstly, fewer columns were dropped by including the 'NAME' column in the dataset. Moreover, more bins were created to account for rare occurrences by implementing a binning strategy for the 'NAME' column. Lastly, the model's architecture was enhanced by incorporating additional neurons into the hidden layers.
+
+![](https://github.com/Gilaine-UOT/deep-learning-challenge/blob/main/Images/Image2_opt.PNG)
+
+To check the Optimization code, click on the file named [Alphabetsoupcharity_optimization.ipynb](https://github.com/Gilaine-UOT/deep-learning-challenge/blob/main/Alphabetsoupcharity_optimization.ipynb)
+
+# Write a Report on the Neural Network Model
+
+Clicke here to access the Alphabet Soup Charity Analysis Report
+
+
+
