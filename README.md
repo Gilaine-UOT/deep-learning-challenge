@@ -33,7 +33,7 @@ To check the Optimization code, click on the file named [Alphabetsoupcharity_opt
 
 # Write a Report on the Neural Network Model
 
-Clicke here to access the Alphabet Soup Charity Analysis Report
+Clicke here to access the [Alphabet Soup Charity Analysis Report](https://github.com/Gilaine-UOT/deep-learning-challenge/blob/main/Alphabet%20Soup%20Charity%20Analysis%20Report.pdf)
 
 
 
